@@ -7,8 +7,6 @@
 // @match        https://discord.com/*
 // @grant        none
 // @run-at       document-start
-// @updateURL    https://skibidisalad.github.io/NSFWGateBypass/NSFWGateBypass.user.js
-// @downloadURL  https://skibidisalad.github.io/NSFWGateBypass/NSFWGateBypass.user.js
 // ==/UserScript==
 
 (function() {
