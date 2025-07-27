@@ -50,7 +50,7 @@ Depending on your browser, install one of the following:
 
 Click the link below to install the script:
 
-[**Install NSFWGateBypass**](https://skibidisalad.github.io/NSFWGateBypass/NSFWGateBypass.user.js)
+[**Install NSFWGateBypass**](https://github.com/SaltSaladd/NSFWGateBypass/raw/refs/heads/main/NSFWGateBypass.user.js)
 
 Your userscript manager should open an install dialog. Confirm and enable the script.
 
