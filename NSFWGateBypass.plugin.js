@@ -4,6 +4,7 @@
      * @description  Sets Discord age gate to teen, preventing NSFW access. Modified for BetterDiscord.
      * @version 1.0.1
      * @source https://github.com/Nia-Cao/NSFWGateBypass
+     * @updateUrl https://github.com/Nia-Cao/NSFWGateBypass/raw/main/NSFWGateBypass.plugin.js
 */
     module.exports = class SuckMyGate {
 
