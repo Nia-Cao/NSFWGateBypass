@@ -4,6 +4,8 @@ Bypass Discord's age verification and NSFW gates using a lightweight userscript.
 
 This script overrides the `ageVerificationStatus` field in Discord’s internal modules, allowing access to age-restricted channels without manual verification.
 
+Modification by Nia for BetterDiscord. Sets status to teen to remove any bugging messages to verify.
+
 ---
 
 ## Supported Platforms
